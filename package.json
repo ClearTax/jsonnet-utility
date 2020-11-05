@@ -1,0 +1,17 @@
+{
+  "name": "jsonnet-utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rbicker/jsonnet": "^0.1.1-0.12.1",
+    "chokidar": "^3.4.3",
+    "jsonnet": "^0.5.0-beta"
+  }
+}
